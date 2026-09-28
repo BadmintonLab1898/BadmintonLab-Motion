@@ -78,13 +78,13 @@ These are the three currently released policy demonstrations. Each preview is sh
 
 <table>
 <tr>
-<td align="center"><a href="https://github.com/user-attachments/assets/4784f833-ba76-45ba-9af9-a8e2873d3efd"><img src="./demo/t1/clear.gif" width="640" alt="T1 Clear"></a><br><sub><a href="https://github.com/user-attachments/assets/4784f833-ba76-45ba-9af9-a8e2873d3efd">T1 Clear</a></sub></td>
+<td align="center"><a href="./demo/t1/clear.mp4"><img src="./demo/t1/clear.gif" width="640" alt="T1 Clear"></a><br><sub><a href="./demo/t1/clear.mp4">T1 Clear</a></sub></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/user-attachments/assets/22a96dea-c030-4fca-8dc5-f94620637d39"><img src="./demo/t1/drop.gif" width="640" alt="T1 Drop"></a><br><sub><a href="https://github.com/user-attachments/assets/22a96dea-c030-4fca-8dc5-f94620637d39">T1 Drop</a></sub></td>
+<td align="center"><a href="./demo/t1/drop.mp4"><img src="./demo/t1/drop.gif" width="640" alt="T1 Drop"></a><br><sub><a href="./demo/t1/drop.mp4">T1 Drop</a></sub></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/user-attachments/assets/628767bc-3712-49bd-8d55-4831fc6b394e"><img src="./demo/t1/lift.gif" width="640" alt="T1 Lift"></a><br><sub><a href="https://github.com/user-attachments/assets/628767bc-3712-49bd-8d55-4831fc6b394e">T1 Lift</a></sub></td>
+<td align="center"><a href="./demo/t1/lift.mp4"><img src="./demo/t1/lift.gif" width="640" alt="T1 Lift"></a><br><sub><a href="./demo/t1/lift.mp4">T1 Lift</a></sub></td>
 </tr>
 </table>
 
@@ -96,39 +96,39 @@ These are the three currently released policy demonstrations. Each preview is sh
 
 <table>
 <tr>
-<td align="center"><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t1_retarget/Backhand_receive1_success_001_FINAL.mp4"><img src="./demo/t1_retarget/Backhand_receive1_success_001_FINAL.gif" width="220" alt="Backhand receive1 success 001"></a><br><sub><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t1_retarget/Backhand_receive1_success_001_FINAL.mp4">Backhand receive1 success 001</a></sub></td>
-<td align="center"><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t1_retarget/Backhand_receive2_success_001_FINAL.mp4"><img src="./demo/t1_retarget/Backhand_receive2_success_001_FINAL.gif" width="220" alt="Backhand receive2 success 001"></a><br><sub><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t1_retarget/Backhand_receive2_success_001_FINAL.mp4">Backhand receive2 success 001</a></sub></td>
-<td align="center"><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t1_retarget/Backhand_receive3_success_001_FINAL.mp4"><img src="./demo/t1_retarget/Backhand_receive3_success_001_FINAL.gif" width="220" alt="Backhand receive3 success 001"></a><br><sub><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t1_retarget/Backhand_receive3_success_001_FINAL.mp4">Backhand receive3 success 001</a></sub></td>
-<td align="center"><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t1_retarget/BwdL_step_001_FINAL.mp4"><img src="./demo/t1_retarget/BwdL_step_001_FINAL.gif" width="220" alt="BwdL step 001"></a><br><sub><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t1_retarget/BwdL_step_001_FINAL.mp4">BwdL step 001</a></sub></td>
+<td align="center"><img src="./demo/t1_retarget/Backhand_receive1_success_001_FINAL.gif" width="220" alt="Backhand receive1 success 001"><br><sub>Backhand receive1 success 001</sub></td>
+<td align="center"><img src="./demo/t1_retarget/Backhand_receive2_success_001_FINAL.gif" width="220" alt="Backhand receive2 success 001"><br><sub>Backhand receive2 success 001</sub></td>
+<td align="center"><img src="./demo/t1_retarget/Backhand_receive3_success_001_FINAL.gif" width="220" alt="Backhand receive3 success 001"><br><sub>Backhand receive3 success 001</sub></td>
+<td align="center"><img src="./demo/t1_retarget/BwdL_step_001_FINAL.gif" width="220" alt="BwdL step 001"><br><sub>BwdL step 001</sub></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t1_retarget/BwdR_step_001_FINAL.mp4"><img src="./demo/t1_retarget/BwdR_step_001_FINAL.gif" width="220" alt="BwdR step 001"></a><br><sub><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t1_retarget/BwdR_step_001_FINAL.mp4">BwdR step 001</a></sub></td>
-<td align="center"><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t1_retarget/BwdRun1_005_FINAL.mp4"><img src="./demo/t1_retarget/BwdRun1_005_FINAL.gif" width="220" alt="BwdRun1 005"></a><br><sub><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t1_retarget/BwdRun1_005_FINAL.mp4">BwdRun1 005</a></sub></td>
-<td align="center"><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t1_retarget/Bwd_step_002_FINAL.mp4"><img src="./demo/t1_retarget/Bwd_step_002_FINAL.gif" width="220" alt="Bwd step 002"></a><br><sub><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t1_retarget/Bwd_step_002_FINAL.mp4">Bwd step 002</a></sub></td>
-<td align="center"><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t1_retarget/Entry_004_FINAL.mp4"><img src="./demo/t1_retarget/Entry_004_FINAL.gif" width="220" alt="Entry 004"></a><br><sub><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t1_retarget/Entry_004_FINAL.mp4">Entry 004</a></sub></td>
+<td align="center"><img src="./demo/t1_retarget/BwdR_step_001_FINAL.gif" width="220" alt="BwdR step 001"><br><sub>BwdR step 001</sub></td>
+<td align="center"><img src="./demo/t1_retarget/BwdRun1_005_FINAL.gif" width="220" alt="BwdRun1 005"><br><sub>BwdRun1 005</sub></td>
+<td align="center"><img src="./demo/t1_retarget/Bwd_step_002_FINAL.gif" width="220" alt="Bwd step 002"><br><sub>Bwd step 002</sub></td>
+<td align="center"><img src="./demo/t1_retarget/Entry_004_FINAL.gif" width="220" alt="Entry 004"><br><sub>Entry 004</sub></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t1_retarget/Forehand_receive1_success_002_FINAL.mp4"><img src="./demo/t1_retarget/Forehand_receive1_success_002_FINAL.gif" width="220" alt="Forehand receive1 success 002"></a><br><sub><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t1_retarget/Forehand_receive1_success_002_FINAL.mp4">Forehand receive1 success 002</a></sub></td>
-<td align="center"><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t1_retarget/Forehand_receive2_success_001_FINAL.mp4"><img src="./demo/t1_retarget/Forehand_receive2_success_001_FINAL.gif" width="220" alt="Forehand receive2 success 001"></a><br><sub><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t1_retarget/Forehand_receive2_success_001_FINAL.mp4">Forehand receive2 success 001</a></sub></td>
-<td align="center"><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t1_retarget/Forehand_receive3_success_001_FINAL.mp4"><img src="./demo/t1_retarget/Forehand_receive3_success_001_FINAL.gif" width="220" alt="Forehand receive3 success 001"></a><br><sub><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t1_retarget/Forehand_receive3_success_001_FINAL.mp4">Forehand receive3 success 001</a></sub></td>
-<td align="center"><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t1_retarget/FwdL_step_001_FINAL.mp4"><img src="./demo/t1_retarget/FwdL_step_001_FINAL.gif" width="220" alt="FwdL step 001"></a><br><sub><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t1_retarget/FwdL_step_001_FINAL.mp4">FwdL step 001</a></sub></td>
+<td align="center"><img src="./demo/t1_retarget/Forehand_receive1_success_002_FINAL.gif" width="220" alt="Forehand receive1 success 002"><br><sub>Forehand receive1 success 002</sub></td>
+<td align="center"><img src="./demo/t1_retarget/Forehand_receive2_success_001_FINAL.gif" width="220" alt="Forehand receive2 success 001"><br><sub>Forehand receive2 success 001</sub></td>
+<td align="center"><img src="./demo/t1_retarget/Forehand_receive3_success_001_FINAL.gif" width="220" alt="Forehand receive3 success 001"><br><sub>Forehand receive3 success 001</sub></td>
+<td align="center"><img src="./demo/t1_retarget/FwdL_step_001_FINAL.gif" width="220" alt="FwdL step 001"><br><sub>FwdL step 001</sub></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t1_retarget/FwdR_step_001_FINAL.mp4"><img src="./demo/t1_retarget/FwdR_step_001_FINAL.gif" width="220" alt="FwdR step 001"></a><br><sub><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t1_retarget/FwdR_step_001_FINAL.mp4">FwdR step 001</a></sub></td>
-<td align="center"><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t1_retarget/Fwd_step_002_FINAL.mp4"><img src="./demo/t1_retarget/Fwd_step_002_FINAL.gif" width="220" alt="Fwd step 002"></a><br><sub><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t1_retarget/Fwd_step_002_FINAL.mp4">Fwd step 002</a></sub></td>
-<td align="center"><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t1_retarget/Idle_1_002_FINAL.mp4"><img src="./demo/t1_retarget/Idle_1_002_FINAL.gif" width="220" alt="Idle 1 002"></a><br><sub><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t1_retarget/Idle_1_002_FINAL.mp4">Idle 1 002</a></sub></td>
-<td align="center"><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t1_retarget/Idle_2_003_FINAL.mp4"><img src="./demo/t1_retarget/Idle_2_003_FINAL.gif" width="220" alt="Idle 2 003"></a><br><sub><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t1_retarget/Idle_2_003_FINAL.mp4">Idle 2 003</a></sub></td>
+<td align="center"><img src="./demo/t1_retarget/FwdR_step_001_FINAL.gif" width="220" alt="FwdR step 001"><br><sub>FwdR step 001</sub></td>
+<td align="center"><img src="./demo/t1_retarget/Fwd_step_002_FINAL.gif" width="220" alt="Fwd step 002"><br><sub>Fwd step 002</sub></td>
+<td align="center"><img src="./demo/t1_retarget/Idle_1_002_FINAL.gif" width="220" alt="Idle 1 002"><br><sub>Idle 1 002</sub></td>
+<td align="center"><img src="./demo/t1_retarget/Idle_2_003_FINAL.gif" width="220" alt="Idle 2 003"><br><sub>Idle 2 003</sub></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t1_retarget/Left_step_001_FINAL.mp4"><img src="./demo/t1_retarget/Left_step_001_FINAL.gif" width="220" alt="Left step 001"></a><br><sub><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t1_retarget/Left_step_001_FINAL.mp4">Left step 001</a></sub></td>
-<td align="center"><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t1_retarget/Mid_receive_success_002_FINAL.mp4"><img src="./demo/t1_retarget/Mid_receive_success_002_FINAL.gif" width="220" alt="Mid receive success 002"></a><br><sub><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t1_retarget/Mid_receive_success_002_FINAL.mp4">Mid receive success 002</a></sub></td>
-<td align="center"><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t1_retarget/Right_step_002_FINAL.mp4"><img src="./demo/t1_retarget/Right_step_002_FINAL.gif" width="220" alt="Right step 002"></a><br><sub><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t1_retarget/Right_step_002_FINAL.mp4">Right step 002</a></sub></td>
-<td align="center"><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t1_retarget/Run_005_FINAL.mp4"><img src="./demo/t1_retarget/Run_005_FINAL.gif" width="220" alt="Run 005"></a><br><sub><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t1_retarget/Run_005_FINAL.mp4">Run 005</a></sub></td>
+<td align="center"><img src="./demo/t1_retarget/Left_step_001_FINAL.gif" width="220" alt="Left step 001"><br><sub>Left step 001</sub></td>
+<td align="center"><img src="./demo/t1_retarget/Mid_receive_success_002_FINAL.gif" width="220" alt="Mid receive success 002"><br><sub>Mid receive success 002</sub></td>
+<td align="center"><img src="./demo/t1_retarget/Right_step_002_FINAL.gif" width="220" alt="Right step 002"><br><sub>Right step 002</sub></td>
+<td align="center"><img src="./demo/t1_retarget/Run_005_FINAL.gif" width="220" alt="Run 005"><br><sub>Run 005</sub></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t1_retarget/Run_005_IP_FINAL.mp4"><img src="./demo/t1_retarget/Run_005_IP_FINAL.gif" width="220" alt="Run 005 IP"></a><br><sub><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t1_retarget/Run_005_IP_FINAL.mp4">Run 005 IP</a></sub></td>
-<td align="center"><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t1_retarget/Serve_004_FINAL.mp4"><img src="./demo/t1_retarget/Serve_004_FINAL.gif" width="220" alt="Serve 004"></a><br><sub><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t1_retarget/Serve_004_FINAL.mp4">Serve 004</a></sub></td>
-<td align="center"><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t1_retarget/Slide_receive1_success_003_FINAL.mp4"><img src="./demo/t1_retarget/Slide_receive1_success_003_FINAL.gif" width="220" alt="Slide receive1 success 003"></a><br><sub><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t1_retarget/Slide_receive1_success_003_FINAL.mp4">Slide receive1 success 003</a></sub></td>
+<td align="center"><img src="./demo/t1_retarget/Run_005_IP_FINAL.gif" width="220" alt="Run 005 IP"><br><sub>Run 005 IP</sub></td>
+<td align="center"><img src="./demo/t1_retarget/Serve_004_FINAL.gif" width="220" alt="Serve 004"><br><sub>Serve 004</sub></td>
+<td align="center"><img src="./demo/t1_retarget/Slide_receive1_success_003_FINAL.gif" width="220" alt="Slide receive1 success 003"><br><sub>Slide receive1 success 003</sub></td>
 <td></td>
 </tr>
 </table>
@@ -140,39 +140,39 @@ These are the three currently released policy demonstrations. Each preview is sh
 
 <table>
 <tr>
-<td align="center"><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t2_retarget/Backhand_receive1_success_001_FINAL.mp4"><img src="./demo/t2_retarget/Backhand_receive1_success_001_FINAL.gif" width="220" alt="Backhand receive1 success 001"></a><br><sub><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t2_retarget/Backhand_receive1_success_001_FINAL.mp4">Backhand receive1 success 001</a></sub></td>
-<td align="center"><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t2_retarget/Backhand_receive2_success_001_FINAL.mp4"><img src="./demo/t2_retarget/Backhand_receive2_success_001_FINAL.gif" width="220" alt="Backhand receive2 success 001"></a><br><sub><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t2_retarget/Backhand_receive2_success_001_FINAL.mp4">Backhand receive2 success 001</a></sub></td>
-<td align="center"><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t2_retarget/Backhand_receive3_success_001_FINAL.mp4"><img src="./demo/t2_retarget/Backhand_receive3_success_001_FINAL.gif" width="220" alt="Backhand receive3 success 001"></a><br><sub><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t2_retarget/Backhand_receive3_success_001_FINAL.mp4">Backhand receive3 success 001</a></sub></td>
-<td align="center"><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t2_retarget/BwdL_step_001_FINAL.mp4"><img src="./demo/t2_retarget/BwdL_step_001_FINAL.gif" width="220" alt="BwdL step 001"></a><br><sub><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t2_retarget/BwdL_step_001_FINAL.mp4">BwdL step 001</a></sub></td>
+<td align="center"><img src="./demo/t2_retarget/Backhand_receive1_success_001_FINAL.gif" width="220" alt="Backhand receive1 success 001"><br><sub>Backhand receive1 success 001</sub></td>
+<td align="center"><img src="./demo/t2_retarget/Backhand_receive2_success_001_FINAL.gif" width="220" alt="Backhand receive2 success 001"><br><sub>Backhand receive2 success 001</sub></td>
+<td align="center"><img src="./demo/t2_retarget/Backhand_receive3_success_001_FINAL.gif" width="220" alt="Backhand receive3 success 001"><br><sub>Backhand receive3 success 001</sub></td>
+<td align="center"><img src="./demo/t2_retarget/BwdL_step_001_FINAL.gif" width="220" alt="BwdL step 001"><br><sub>BwdL step 001</sub></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t2_retarget/BwdR_step_001_FINAL.mp4"><img src="./demo/t2_retarget/BwdR_step_001_FINAL.gif" width="220" alt="BwdR step 001"></a><br><sub><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t2_retarget/BwdR_step_001_FINAL.mp4">BwdR step 001</a></sub></td>
-<td align="center"><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t2_retarget/BwdRun1_005_FINAL.mp4"><img src="./demo/t2_retarget/BwdRun1_005_FINAL.gif" width="220" alt="BwdRun1 005"></a><br><sub><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t2_retarget/BwdRun1_005_FINAL.mp4">BwdRun1 005</a></sub></td>
-<td align="center"><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t2_retarget/Bwd_step_002_FINAL.mp4"><img src="./demo/t2_retarget/Bwd_step_002_FINAL.gif" width="220" alt="Bwd step 002"></a><br><sub><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t2_retarget/Bwd_step_002_FINAL.mp4">Bwd step 002</a></sub></td>
-<td align="center"><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t2_retarget/Entry_004_FINAL.mp4"><img src="./demo/t2_retarget/Entry_004_FINAL.gif" width="220" alt="Entry 004"></a><br><sub><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t2_retarget/Entry_004_FINAL.mp4">Entry 004</a></sub></td>
+<td align="center"><img src="./demo/t2_retarget/BwdR_step_001_FINAL.gif" width="220" alt="BwdR step 001"><br><sub>BwdR step 001</sub></td>
+<td align="center"><img src="./demo/t2_retarget/BwdRun1_005_FINAL.gif" width="220" alt="BwdRun1 005"><br><sub>BwdRun1 005</sub></td>
+<td align="center"><img src="./demo/t2_retarget/Bwd_step_002_FINAL.gif" width="220" alt="Bwd step 002"><br><sub>Bwd step 002</sub></td>
+<td align="center"><img src="./demo/t2_retarget/Entry_004_FINAL.gif" width="220" alt="Entry 004"><br><sub>Entry 004</sub></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t2_retarget/Forehand_receive1_success_002_FINAL.mp4"><img src="./demo/t2_retarget/Forehand_receive1_success_002_FINAL.gif" width="220" alt="Forehand receive1 success 002"></a><br><sub><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t2_retarget/Forehand_receive1_success_002_FINAL.mp4">Forehand receive1 success 002</a></sub></td>
-<td align="center"><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t2_retarget/Forehand_receive2_success_001_FINAL.mp4"><img src="./demo/t2_retarget/Forehand_receive2_success_001_FINAL.gif" width="220" alt="Forehand receive2 success 001"></a><br><sub><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t2_retarget/Forehand_receive2_success_001_FINAL.mp4">Forehand receive2 success 001</a></sub></td>
-<td align="center"><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t2_retarget/Forehand_receive3_success_001_FINAL.mp4"><img src="./demo/t2_retarget/Forehand_receive3_success_001_FINAL.gif" width="220" alt="Forehand receive3 success 001"></a><br><sub><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t2_retarget/Forehand_receive3_success_001_FINAL.mp4">Forehand receive3 success 001</a></sub></td>
-<td align="center"><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t2_retarget/FwdL_step_001_FINAL.mp4"><img src="./demo/t2_retarget/FwdL_step_001_FINAL.gif" width="220" alt="FwdL step 001"></a><br><sub><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t2_retarget/FwdL_step_001_FINAL.mp4">FwdL step 001</a></sub></td>
+<td align="center"><img src="./demo/t2_retarget/Forehand_receive1_success_002_FINAL.gif" width="220" alt="Forehand receive1 success 002"><br><sub>Forehand receive1 success 002</sub></td>
+<td align="center"><img src="./demo/t2_retarget/Forehand_receive2_success_001_FINAL.gif" width="220" alt="Forehand receive2 success 001"><br><sub>Forehand receive2 success 001</sub></td>
+<td align="center"><img src="./demo/t2_retarget/Forehand_receive3_success_001_FINAL.gif" width="220" alt="Forehand receive3 success 001"><br><sub>Forehand receive3 success 001</sub></td>
+<td align="center"><img src="./demo/t2_retarget/FwdL_step_001_FINAL.gif" width="220" alt="FwdL step 001"><br><sub>FwdL step 001</sub></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t2_retarget/FwdR_step_001_FINAL.mp4"><img src="./demo/t2_retarget/FwdR_step_001_FINAL.gif" width="220" alt="FwdR step 001"></a><br><sub><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t2_retarget/FwdR_step_001_FINAL.mp4">FwdR step 001</a></sub></td>
-<td align="center"><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t2_retarget/Fwd_step_002_FINAL.mp4"><img src="./demo/t2_retarget/Fwd_step_002_FINAL.gif" width="220" alt="Fwd step 002"></a><br><sub><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t2_retarget/Fwd_step_002_FINAL.mp4">Fwd step 002</a></sub></td>
-<td align="center"><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t2_retarget/Idle_1_002_FINAL.mp4"><img src="./demo/t2_retarget/Idle_1_002_FINAL.gif" width="220" alt="Idle 1 002"></a><br><sub><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t2_retarget/Idle_1_002_FINAL.mp4">Idle 1 002</a></sub></td>
-<td align="center"><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t2_retarget/Idle_2_003_FINAL.mp4"><img src="./demo/t2_retarget/Idle_2_003_FINAL.gif" width="220" alt="Idle 2 003"></a><br><sub><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t2_retarget/Idle_2_003_FINAL.mp4">Idle 2 003</a></sub></td>
+<td align="center"><img src="./demo/t2_retarget/FwdR_step_001_FINAL.gif" width="220" alt="FwdR step 001"><br><sub>FwdR step 001</sub></td>
+<td align="center"><img src="./demo/t2_retarget/Fwd_step_002_FINAL.gif" width="220" alt="Fwd step 002"><br><sub>Fwd step 002</sub></td>
+<td align="center"><img src="./demo/t2_retarget/Idle_1_002_FINAL.gif" width="220" alt="Idle 1 002"><br><sub>Idle 1 002</sub></td>
+<td align="center"><img src="./demo/t2_retarget/Idle_2_003_FINAL.gif" width="220" alt="Idle 2 003"><br><sub>Idle 2 003</sub></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t2_retarget/Left_step_001_FINAL.mp4"><img src="./demo/t2_retarget/Left_step_001_FINAL.gif" width="220" alt="Left step 001"></a><br><sub><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t2_retarget/Left_step_001_FINAL.mp4">Left step 001</a></sub></td>
-<td align="center"><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t2_retarget/Mid_receive_success_002_FINAL.mp4"><img src="./demo/t2_retarget/Mid_receive_success_002_FINAL.gif" width="220" alt="Mid receive success 002"></a><br><sub><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t2_retarget/Mid_receive_success_002_FINAL.mp4">Mid receive success 002</a></sub></td>
-<td align="center"><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t2_retarget/Right_step_002_FINAL.mp4"><img src="./demo/t2_retarget/Right_step_002_FINAL.gif" width="220" alt="Right step 002"></a><br><sub><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t2_retarget/Right_step_002_FINAL.mp4">Right step 002</a></sub></td>
-<td align="center"><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t2_retarget/Run_005_FINAL.mp4"><img src="./demo/t2_retarget/Run_005_FINAL.gif" width="220" alt="Run 005"></a><br><sub><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t2_retarget/Run_005_FINAL.mp4">Run 005</a></sub></td>
+<td align="center"><img src="./demo/t2_retarget/Left_step_001_FINAL.gif" width="220" alt="Left step 001"><br><sub>Left step 001</sub></td>
+<td align="center"><img src="./demo/t2_retarget/Mid_receive_success_002_FINAL.gif" width="220" alt="Mid receive success 002"><br><sub>Mid receive success 002</sub></td>
+<td align="center"><img src="./demo/t2_retarget/Right_step_002_FINAL.gif" width="220" alt="Right step 002"><br><sub>Right step 002</sub></td>
+<td align="center"><img src="./demo/t2_retarget/Run_005_FINAL.gif" width="220" alt="Run 005"><br><sub>Run 005</sub></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t2_retarget/Run_005_IP_FINAL.mp4"><img src="./demo/t2_retarget/Run_005_IP_FINAL.gif" width="220" alt="Run 005 IP"></a><br><sub><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t2_retarget/Run_005_IP_FINAL.mp4">Run 005 IP</a></sub></td>
-<td align="center"><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t2_retarget/Serve_004_FINAL.mp4"><img src="./demo/t2_retarget/Serve_004_FINAL.gif" width="220" alt="Serve 004"></a><br><sub><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t2_retarget/Serve_004_FINAL.mp4">Serve 004</a></sub></td>
-<td align="center"><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t2_retarget/Slide_receive1_success_003_FINAL.mp4"><img src="./demo/t2_retarget/Slide_receive1_success_003_FINAL.gif" width="220" alt="Slide receive1 success 003"></a><br><sub><a href="https://github.com/BadmintonLab1898/BadmintonLab-Motion/raw/refs/heads/main/demo/t2_retarget/Slide_receive1_success_003_FINAL.mp4">Slide receive1 success 003</a></sub></td>
+<td align="center"><img src="./demo/t2_retarget/Run_005_IP_FINAL.gif" width="220" alt="Run 005 IP"><br><sub>Run 005 IP</sub></td>
+<td align="center"><img src="./demo/t2_retarget/Serve_004_FINAL.gif" width="220" alt="Serve 004"><br><sub>Serve 004</sub></td>
+<td align="center"><img src="./demo/t2_retarget/Slide_receive1_success_003_FINAL.gif" width="220" alt="Slide receive1 success 003"><br><sub>Slide receive1 success 003</sub></td>
 <td></td>
 </tr>
 </table>
