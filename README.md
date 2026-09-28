@@ -70,11 +70,11 @@ Use `--video` with `play.py` to record a rollout. The training script also suppo
 
 ## Demo
 
-The T1 policy and retargeting previews below use optimized animated GIFs generated from the MP4 clips. Click a preview or its label to open the original MP4.
+The T1 policy and retargeting previews below use optimized animated GIFs generated from the MP4 clips.
 
 ### Trained T1 policies
 
-These are the three currently released policy demonstrations. Each preview is shown on its own row; click a GIF to open the original MP4.
+These are the three currently released policy demonstrations. Click a GIF to open the original MP4.
 
 <table>
 <tr>
